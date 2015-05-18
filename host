@@ -1,5 +1,5 @@
 #http://jebaird.com/blog/hosts-ip-host-generating-blocked-hosts-host-file-cisco-router
-188.124.24.5 turkanime.tv
+
 #remove spotify ads
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
